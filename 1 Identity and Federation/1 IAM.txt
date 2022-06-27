@@ -50,14 +50,10 @@ ArnEquals,ArnLike
 Null
 
 
-
-
-
 IAM Roles and Resource Based Policies:
 ---------------------------------------
 
 - Assume Role - Give up original permissions and take up new role Policies
-- 
 
 
 
