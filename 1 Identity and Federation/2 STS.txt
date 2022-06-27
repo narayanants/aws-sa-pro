@@ -1,0 +1,25 @@
+STS:
+---
+
+    - Security Token Service
+    - Cross Account Access
+    - Identity Federation
+
+
+
+    Assume Role - Give original permissions and use new permissions
+
+
+  - 3rd party AWS Account ID
+  - An External ID
+
+
+
+
+  AssumeRole
+  AssumeRoleWithSAML
+  AssumeRoleWithWebIdentity
+  GetSessionToken
+  
+
+

@@ -1,0 +1,63 @@
+IAM:
+----
+
+    - User
+    - Group
+    - Role
+    - Policies
+
+
+
+
+Policies:
+---------
+
+     AWS managed
+     Customer Managed
+     Inline Policy
+
+
+
+Policies:
+---------
+
+    Principal
+    Effect
+    Action
+    Resource
+    SID
+
+
+IAM Policy Types:
+-----------------
+
+Administrator Access
+PowerUserAccess
+
+
+NotAction - to not expilictly Deny
+
+
+IAM Policies Conditions:
+------------------------
+
+String
+Number
+Date
+Bool
+IpAddress
+ArnEquals,ArnLike
+Null
+
+
+
+
+
+IAM Roles and Resource Based Policies:
+---------------------------------------
+
+- Assume Role - Give up original permissions and take up new role Policies
+- 
+
+
+

@@ -1,0 +1,15 @@
+Identity Federation:
+--------------------
+
+  SSO
+
+
+  SAML 2.0 Federation:
+  ---------------------
+
+    Security Assertion Markup Language
+
+    AssumeRoleWithSAML API
+
+    
+
