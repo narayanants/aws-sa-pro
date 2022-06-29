@@ -1,0 +1,9 @@
+CloudTrail:
+----------
+
+    - Management Events
+    - Data Events
+    - CloudTrail Events Insights
+
+
+    
