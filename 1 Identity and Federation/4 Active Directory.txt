@@ -1,0 +1,9 @@
+Active Directory:
+----------------
+
+ - AD Domain Services
+ -  Objects are groups into Trees
+ - Group of trees is known as Forest
+
+
+ 
